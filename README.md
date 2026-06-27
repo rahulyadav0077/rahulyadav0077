@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rahul Yadav 👋</h1>
 
-<!--
-**rahulyadav0077/rahulyadav0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>TY BSCIT Student | Aspiring Software Developer</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Currently pursuing **BSc IT (Final Year)**
+- 💻 Interested in **Web Development**, **Java/Python**,
+- 🌱 Currently learning: *(C# , JS )*
+- 📫 Reach me at: *krbr1679@gmail.com*
+- 🔗 LinkedIn: *https://github.com/rahulyadav0077*
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project Name](#) | One-line description of what it does | Java / MySQL |
+| [Project Name](#) | One-line description of what it does | HTML, CSS, JS |
+| [Project Name](#) | One-line description of what it does | Python |
+
+> 💡 Replace these with your actual repo links once you push your projects.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulyadav0077&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulyadav0077" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories.</i></p>
