@@ -11,6 +11,7 @@
 - 🎓 Currently pursuing **BSc IT (Final Year)**
 - 💻 Interested in **Web Development**, **Java/Python**,
 - 🌱 Currently learning: *(C# , JS )*
+- 🌐 Portfolio: [rahulyadav11.lovable.app](https://rahulyadav11.lovable.app)
 - 📫 Reach me at: *krbr1679@gmail.com*
 - 🔗 LinkedIn: *https://github.com/rahulyadav0077*
 
