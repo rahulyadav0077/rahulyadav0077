@@ -35,9 +35,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name](#) | COMMING SOON | Java / MySQL |
-| [Project Name](#) | COMMING SOON | HTML, CSS, JS |
-| [Project Name](#) | COMMING SOON | Python |
+| [Project Name](#) | 📅 Launching Soon | Java / MySQL |
+| [Project Name](#) | 📅 Launching Soon | HTML, CSS, JS |
+| [Project Name](#) | 📅 Launching Soon | Python |
 
 > 💡 Replace these with your actual repo links once you push your projects.
 
