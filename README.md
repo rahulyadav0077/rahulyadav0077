@@ -37,7 +37,7 @@
 |---|---|---|
 | [Project Name](#) | 📅 Launching Soon | Java / MySQL |
 | [Project Name](#) | 📅 Launching Soon | HTML, CSS, JS |
-| [Project Name](#) | 📅 Launching Soon | Python |
+| [Demo Bscit Quiz ](#) | https://demo-bsc-it-quiz.lovable.app | Python |
 
 > 💡 Replace these with your actual repo links once you push your projects.
 
