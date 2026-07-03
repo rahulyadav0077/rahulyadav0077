@@ -35,9 +35,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name](#) | One-line description of what it does | Java / MySQL |
-| [Project Name](#) | One-line description of what it does | HTML, CSS, JS |
-| [Project Name](#) | One-line description of what it does | Python |
+| [Project Name](#) | COMMING SOON | Java / MySQL |
+| [Project Name](#) | COMMING SOON | HTML, CSS, JS |
+| [Project Name](#) | COMMING SOON | Python |
 
 > 💡 Replace these with your actual repo links once you push your projects.
 
